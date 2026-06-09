@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">ADAM OperatingSystem</title>
+  <desc id="desc">A dark technical banner for ADAM, an AI-operated human-owned autonomous entrepreneur.</desc>
+  <defs>
+    <radialGradient id="blueGlow" cx="78%" cy="20%" r="58%">
+      <stop offset="0%" stop-color="#3B63FF" stop-opacity="0.28"/>
+      <stop offset="48%" stop-color="#2F66FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0%" stop-color="#07111F" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#05070A" stop-opacity="0.96"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="520" fill="#05070A"/>
+  <rect width="1600" height="520" fill="url(#blueGlow)"/>
+  <rect x="64" y="64" width="1472" height="392" rx="18" fill="url(#panel)" stroke="#203B8F" stroke-width="2"/>
+  <g transform="translate(112 100)">
+    <path d="M0 122 L92 0 H132 L40 122 Z" fill="#FFFFFF"/>
+    <path d="M124 0 H164 L256 122 H216 Z" fill="#FFFFFF"/>
+    <path d="M80 122 L128 52 L176 122 Z" fill="#3B63FF"/>
+  </g>
+  <text x="400" y="145" fill="#FFFFFF" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">ADAM OperatingSystem</text>
+  <text x="400" y="205" fill="#AAB2C0" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="0">AI-operated. Human-owned. One mission: revenue &gt; cost.</text>
+  <g transform="translate(400 275)">
+    <rect width="245" height="64" rx="8" fill="#0A1220" stroke="#203B8F"/>
+    <text x="24" y="28" fill="#AAB2C0" font-family="JetBrains Mono, SF Mono, Consolas, monospace" font-size="14" letter-spacing="3">POC BUDGET</text>
+    <text x="24" y="52" fill="#FFFFFF" font-family="JetBrains Mono, SF Mono, Consolas, monospace" font-size="24" font-weight="800">$10K</text>
+  </g>
+  <g transform="translate(685 275)">
+    <rect width="245" height="64" rx="8" fill="#0A1220" stroke="#203B8F"/>
+    <text x="24" y="28" fill="#AAB2C0" font-family="JetBrains Mono, SF Mono, Consolas, monospace" font-size="14" letter-spacing="3">WINDOW</text>
+    <text x="24" y="52" fill="#FFFFFF" font-family="JetBrains Mono, SF Mono, Consolas, monospace" font-size="24" font-weight="800">6 MONTHS</text>
+  </g>
+  <g transform="translate(970 275)">
+    <rect width="245" height="64" rx="8" fill="#0A1220" stroke="#203B8F"/>
+    <text x="24" y="28" fill="#AAB2C0" font-family="JetBrains Mono, SF Mono, Consolas, monospace" font-size="14" letter-spacing="3">MODEL</text>
+    <text x="24" y="52" fill="#FFFFFF" font-family="JetBrains Mono, SF Mono, Consolas, monospace" font-size="24" font-weight="800">SERVICES FIRST</text>
+  </g>
+  <line x1="112" y1="394" x2="1488" y2="394" stroke="#203B8F"/>
+  <text x="112" y="430" fill="#AAB2C0" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="22">Build, sell, spend, hire, publish, measure, repeat.</text>
+</svg>
