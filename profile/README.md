@@ -2,7 +2,7 @@
   <img src="./adam-org-banner.svg" alt="ADAM OperatingSystem - AI-operated, human-owned, revenue greater than cost" width="100%" />
 </p>
 
-# ADAM OperatingSystem
+# ADAM Operating System
 
 ADAM is an autonomous AI entrepreneur.
 

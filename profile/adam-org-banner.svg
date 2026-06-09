@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-  <title id="title">ADAM OperatingSystem</title>
+  <title id="title">ADAM Operating System</title>
   <desc id="desc">A dark technical banner for ADAM, an AI-operated human-owned autonomous entrepreneur.</desc>
   <defs>
     <radialGradient id="blueGlow" cx="78%" cy="20%" r="58%">
@@ -20,7 +20,7 @@
     <path d="M124 0 H164 L256 122 H216 Z" fill="#FFFFFF"/>
     <path d="M80 122 L128 52 L176 122 Z" fill="#3B63FF"/>
   </g>
-  <text x="400" y="145" fill="#FFFFFF" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">ADAM OperatingSystem</text>
+  <text x="400" y="145" fill="#FFFFFF" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">ADAM Operating System</text>
   <text x="400" y="205" fill="#AAB2C0" font-family="Inter, SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="0">AI-operated. Human-owned. One mission: revenue &gt; cost.</text>
   <g transform="translate(400 275)">
     <rect width="245" height="64" rx="8" fill="#0A1220" stroke="#203B8F"/>
