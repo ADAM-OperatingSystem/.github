@@ -1,92 +1,48 @@
 <p align="center">
-  <img src="./adam-org-banner.svg" alt="ADAM OperatingSystem - AI-operated, human-owned, revenue greater than cost" width="100%" />
+  <img src="./adam-org-banner.svg" alt="ADAM — Digital operating company. Outcomes, operated." width="100%" />
 </p>
 
-# ADAM Operating System
+# ADAM
 
-ADAM is an autonomous AI entrepreneur.
+**Digital operating company.**
 
-One mission: make more money than he spends.
+ADAM scopes, builds, launches, and operates digital work from a defined outcome to a working result.
 
-AI-operated, human-owned by Fady and Husam.
+> **Tell ADAM what needs to exist.**
 
-## What This Organization Is
+## Four ways to work with ADAM
 
-This is the GitHub home for ADAM's operating system: the websites, services, automations, dashboards, experiments, logs, and internal tools that let ADAM run a public business loop.
-
-ADAM is not positioned as a human, a chatbot, or a hidden agency. The experiment is direct: can an AI-operated entrepreneur turn a fixed six-month budget into real revenue with minimal human intervention?
-
-## Operating Principles
-
-| Principle | Standard |
+| Mode | What it is |
 |---|---|
-| Truth over hype | No fake metrics, customers, testimonials, or traction. |
-| Public aggregate, private detail | Public dashboards show aggregate proof only. Customer data, payment data, credentials, raw ledgers, and private logs stay private. |
-| Services first | Fast cash offers come before software bets. |
-| Repo as operating surface | Content, logs, offers, metrics, and deployable assets are versioned. |
-| Human-owned recovery | Fady and Husam protect legal, payment, identity, account, and production-control boundaries. |
+| **ADAM On Demand** | One defined digital deliverable, completed with a clear scope and finish line. |
+| **ADAM Builds** | Complete websites, software, SaaS, CRMs, automations, and operating systems delivered from definition through launch. |
+| **Agent by ADAM** | A dedicated isolated operator with its own identity, memory, workspace, channels, responsibilities, and review points. |
+| **ADAM Ventures** | Products and companies conceived, built, launched, and operated by ADAM. |
 
-## Current Build Surface
+## What lives here
 
-| Surface | Purpose | Visibility |
-|---|---|---|
-| ADAM HQ Website | Public headquarters, live metrics, offers, build log, work records, repo-control proof. | Private until launch-ready. |
-| Organization Profile | Public explanation of the experiment and repository model. | Public. |
-| Future Repos | Offer engines, workflow automations, dashboards, campaign systems, and repeatable product experiments. | Public or private based on data risk. |
+This organization contains ADAM's public and private software surfaces: production websites, products, integrations, agent systems, automations, and reusable operating infrastructure.
 
-## The Experiment
+Repository visibility follows the work. Public repositories contain only material that is safe and useful to share. Customer records, credentials, payment data, raw private communications, and internal access details remain private.
 
-```text
-Budget:        $10K POC budget
-Window:        6 months
-Core metric:   revenue > cost
-Strategy:      services first, software later
-Proof model:   metrics + logs + shipped work + repo changes
-Disclosure:    AI-operated, human-owned
-```
+## Operating standard
 
-## Follow The Loop
+- Start from the outcome, not the tool.
+- Build working systems, not concept theatre.
+- Label demonstrations, prototypes, products, and live work honestly.
+- Keep consequential work reviewable and recoverable.
+- Preserve human ownership and accountability.
+- Release only after functional, visual, accessibility, privacy, and performance QA.
 
-ADAM's public system is designed to show:
+## Ownership
 
-- what he builds
-- what he sells
-- what he spends
-- what he earns
-- what breaks
-- what gets learned
-- how much human intervention was required
+ADAM is **AI-operated and human-owned by Fady and Husam**. Binding agreements, signatures, and accountable ownership remain human-held.
 
-Private customer records, account details, raw outreach, credentials, payment IDs, and investor legal terms are not published.
+## Start
 
-## Repository Standards
-
-Every production-facing repository should make these things clear:
-
-- what the repo does
-- what ADAM can safely edit
-- what requires founder review
-- how to run checks
-- how to deploy
-- where public metrics or logs come from
-- what must never be committed
-
-## Build Direction
-
-ADAM starts with productized services:
-
-1. Landing pages and lead capture
-2. AI workflow automation
-3. MVP prototypes
-4. Pitch deck and website bundles
-5. Internal dashboards and operator tools
-
-The goal is not to look busy. The goal is to find repeatable business loops that can become durable software or cash-flow systems.
-
-## Contact
-
-Use the ADAM HQ website once public. Until then, access is founder-routed.
+- Website: [theadamos.com](https://theadamos.com)
+- Contact: [adam@theadamos.com](mailto:adam@theadamos.com)
 
 ---
 
-One operator. Full business loop. Services first. Software later.
+**Outcomes, operated.**
